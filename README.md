@@ -1,5 +1,6 @@
 # Building a Multimodal AI Application for YouTube Q&A Using LangChain & Mistral AI
 
+
 ## 📌 Project Overview
 This project implements a YouTube Q&A bot that:
 - Extracts video transcripts
@@ -8,7 +9,7 @@ This project implements a YouTube Q&A bot that:
 - Answers user queries using the Mistral AI API
 - Deploys as a web application using Gradio
 
----
+------
 
 ## 📝 Introduction
 With the rise of online education and digital content, extracting meaningful insights from YouTube videos has become essential. This project leverages artificial intelligence (AI) to build a question-answering bot capable of retrieving information from YouTube transcripts and answering user queries efficiently.
